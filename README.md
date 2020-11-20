@@ -1,3 +1,3 @@
 # notes-app
 
-## A Basic node application written with node to record edit and delete notes.
+## A Basic node application to record edit and delete notes.
