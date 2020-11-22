@@ -1,4 +1,4 @@
-# A Basic CRUD Node application to keep track of notes.
+# A Node application to keep track of notes.
 To run the application, navigate to the application folder in your terminal and run the app using any of the following commands:
 
 
